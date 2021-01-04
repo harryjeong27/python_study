@@ -32,7 +32,6 @@ python study files
 - array
 - series
 - dataframe
-### PYTHON_DATASTRUCTURE_QUES
 ### PYTHON_ADVANCED_THEORY
 - 적용함수 / 메서드
   - map 함수, map 메서드, apply, applymap
