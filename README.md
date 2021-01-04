@@ -52,3 +52,13 @@ python study files
 - 파이썬 시각화
 ### PYTHON_ADVANCED_QUES
 ### PYTHON_CONNECT_ORACLE
+### OTHER_USEFUL_CODES
+- 경고 메시지 숨기기
+- 모듈 내 함수 목록 확인
+- 작업 디렉토리 확인 및 설정
+- 파이썬 버젼확인
+- describe 활용
+- 여러 개 테이블 한번에 보기
+- 항목별 개수 카운트 : value_counts()
+- pickle
+- glob : 파일들의 리스트 뽑을 때
